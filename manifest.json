@@ -1,0 +1,27 @@
+{
+  "manifest_version": 3,
+  "name": "GitHub Social Icons",
+  "version": "1.0",
+  "description": "Prettifies Social links on GitHub profiles and gists.",
+  "permissions": [
+    "activeTab"
+  ],
+  "author": "pjpscriv", 
+  "content_scripts": [
+    {
+      "matches": [
+        "https://github.com/*",
+        "https://gist.github.com/*"
+      ],
+      "js": [
+        "./content.js"
+      ]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["/icons/*.svg"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}
