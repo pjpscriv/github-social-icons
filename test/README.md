@@ -23,8 +23,6 @@
 **Steam**
 - https://github.com/MaxGripe
 
-### TODO
-
 **Figma**
 - https://github.com/JamesIves
 
@@ -36,6 +34,8 @@
 
 **Behance**
 - https://github.com/erochOnGit
+
+### TODO
 
 **Spotify?**
 - https://github.com/
