@@ -18,9 +18,14 @@
       ]
     }
   ],
+  "icons": {
+    "16": "/icons/icon_16.png",
+    "48": "/icons/icon_48.png",
+    "128": "/icons/icon_128.png"
+ },
   "web_accessible_resources": [
     {
-      "resources": ["/icons/*.svg"],
+      "resources": ["/link-icons/*.svg"],
       "matches": ["<all_urls>"]
     }
   ]

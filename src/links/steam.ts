@@ -4,7 +4,7 @@ export class Steam extends SocialLink {
     public name: string = 'Steam';
     public domain: string = 'steamcommunity.com';
     public regex: RegExp = /steamcommunity\.com\/(id|profiles)\/([^\/]+)/;
-    public iconUrl: string = 'icons/steam.svg';
+    public iconUrl: string = 'link-icons/steam.svg';
 
     public getText(text: string): string {
         const match = text.match(this.regex);

@@ -4,7 +4,7 @@ export class ResearchGate extends SocialLink {
     public name: string = 'ResearchGate';
     public domain: string = 'researchgate.net';
     public regex: RegExp = /researchgate\.net\/profile\/([^\/]+)/;
-    public iconUrl: string = 'icons/researchgate.svg';
+    public iconUrl: string = 'link-icons/researchgate.svg';
 
     public getText(text: string): string {
         const match = text.match(this.regex);

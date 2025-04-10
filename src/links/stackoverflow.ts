@@ -4,7 +4,7 @@ export class StackOverflow extends SocialLink {
     public name: string = 'StackOverflow';
     public domain: string = 'stackoverflow.com';
     public regex: RegExp = /stackoverflow\.com\/(?:users|u)\/(\d+)(?:\/([^\/]+))?/;
-    public iconUrl: string = 'icons/stackoverflow.svg';
+    public iconUrl: string = 'link-icons/stackoverflow.svg';
 
     public getText(text: string): string {
       const match = text.match(this.regex);

@@ -4,7 +4,7 @@ export class Figma extends SocialLink {
     public name: string = 'Figma';
     public domain: string = 'figma.com';
     public regex: RegExp = /figma\.com\/([^\/]+)/;
-    public iconUrl: string = 'icons/figma.svg';
+    public iconUrl: string = 'link-icons/figma.svg';
 
     public getText(text: string): string {
         const match = text.match(this.regex);

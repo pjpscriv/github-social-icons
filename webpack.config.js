@@ -14,12 +14,16 @@ module.exports = {
       patterns: [
         {
           from: path.resolve(__dirname, 'src/icons'),
-          to: path.resolve(__dirname, 'dist/icons')
+          to: path.resolve(__dirname, 'dist/link-icons')
         },
         {
           from: path.resolve(__dirname, 'manifest.json'),
           to: path.resolve(__dirname, 'dist/manifest.json'),
-        }
+        },
+        {
+          from: path.resolve(__dirname, 'icons'),
+          to: path.resolve(__dirname, 'dist/icons')
+        },
       ]
     })
   ],

@@ -4,7 +4,7 @@ export class Behance extends SocialLink {
     public name: string = 'Behance';
     public domain: string = 'behance.net';
     public regex: RegExp = /behance\.net\/([^\/]+)/;
-    public iconUrl: string = 'icons/behance.svg';
+    public iconUrl: string = 'link-icons/behance.svg';
 
     public getText(text: string): string {
         const match = text.match(this.regex);

@@ -4,7 +4,7 @@ export class Observable extends SocialLink {
     public name: string = 'Observable';
     public domain: string = 'observablehq.com';
     public regex: RegExp = /observablehq\.com\/@([^\/]+)/;
-    public iconUrl: string = 'icons/observable.svg';
+    public iconUrl: string = 'link-icons/observable.svg';
 
     public getText(text: string): string {
       const match = text.match(this.regex);

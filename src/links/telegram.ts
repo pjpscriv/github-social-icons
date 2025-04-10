@@ -5,7 +5,7 @@ export class Telegram extends SocialLink {
     public domain: string = 't.me';
     public secondaryDomain = 'telegram.me';
     public regex: RegExp = /(t\.me|telegram\.me)\/([^\/]+)/;
-    public iconUrl: string = 'icons/telegram.svg';
+    public iconUrl: string = 'link-icons/telegram.svg';
 
     public override appliesTo(linkEl: HTMLAnchorElement): boolean {
         return super.appliesTo(linkEl) || linkEl.href.includes(this.secondaryDomain);
