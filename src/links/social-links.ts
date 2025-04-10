@@ -9,6 +9,10 @@ export abstract class SocialLink {
 
   abstract getText(text: string): string;
 
+  appliesTo(linkEl: HTMLAnchorElement): boolean {
+    return linkEl.href.includes(this.domain);
+  }
+
   transformItem(el: Element): void {
     // Get parts of the link
     const svgEl = el.querySelector(SVG_SELECTOR);

@@ -2,7 +2,7 @@ const LOGGER_ENABLED = false;
 
 class Logger {
     private static enabled = LOGGER_ENABLED;
-    private static logName = '[GH Profile SO Link]';
+    private static logName = '[GH Profile Social Icons]';
 
     public log(message: string): void {
         if (Logger.enabled) {

@@ -3,19 +3,25 @@ import { LINK_SELECTOR, SOCIAL_LINK_SELECTOR } from './selectors';
 import { SocialLink } from './links/social-links';
 import { Observable } from './links/observable';
 import { StackOverflow } from './links/stackoverflow';
+import { Telegram } from './links/telegram';
+import { Threads } from './links/threads';
+import { Steam } from './links/steam';
 
 export const socialLinks: SocialLink[] = [
   new StackOverflow(),
-  new Observable()
+  new Observable(),
+  new Telegram(),
+  new Threads(),
+  new Steam(),
 ];
 
 function prettifyLinks() {
   const links = document.querySelectorAll(SOCIAL_LINK_SELECTOR);
   
-  links?.forEach((link: Element) => {
-    const linkEl: HTMLAnchorElement  = link.querySelector(LINK_SELECTOR);
+  links.forEach((link: Element) => {
+    const linkEl: HTMLAnchorElement = link.querySelector(LINK_SELECTOR);
     socialLinks.forEach((social: SocialLink) => {
-      if (linkEl.href.includes(social.domain)) {
+      if (social.appliesTo(linkEl)) {
         social.transformItem(link);
       }
     });
