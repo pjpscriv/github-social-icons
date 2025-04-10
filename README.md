@@ -4,27 +4,27 @@ This Chrome extension enhances GitHub profiles and Gist pages by prettifying uns
 
 ## Development
 
+Built using [Node 22 LTS](https://nodejs.org/en/download). May work fine with earlier versions but I haven't checked them.
+
 Install required libraries
 ```sh
 npm install
 ```
 
-
-Compile TypeScript and copy over required files with
+Compile TypeScript and copy over required files
 ```sh
 npm run watch
 ```
 
 Launch the extension using Mozilla's `web-ext`
-
 ```sh
-web-ext run --target chromium --source-dir ./dist/
+npm run test
 ```
 
 ### Package
 
 ```sh
-web-ext build --source-dir ./dist/
+npm run package
 ```
 
 ## Contributing

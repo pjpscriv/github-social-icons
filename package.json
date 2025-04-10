@@ -4,7 +4,7 @@
         "dev": "webpack --mode development",
         "watch": "webpack --watch --mode development",
         "test": "web-ext run --target chromium --source-dir ./dist/ --start-url github.com/",
-        "package": "web-ext build --source-dir ./dist/ --overwrite-dest --no-reload"
+        "package": "web-ext build --source-dir ./dist/ --artifacts-dir ./ --overwrite-dest"
     },
     "devDependencies": {
         "@types/chrome": "^0.0.313",
