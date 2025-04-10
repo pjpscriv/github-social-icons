@@ -1,7 +1,13 @@
 import { logger } from './logger';
 import { LINK_SELECTOR, SOCIAL_LINK_SELECTOR } from './selectors';
-import { socialLinks, SocialLink } from './links/social-links';
+import { SocialLink } from './links/social-links';
+import { Observable } from './links/observable';
+import { StackOverflow } from './links/stackoverflow';
 
+export const socialLinks: SocialLink[] = [
+  new StackOverflow(),
+  new Observable()
+];
 
 function prettifyLinks() {
   const links = document.querySelectorAll(SOCIAL_LINK_SELECTOR);
@@ -35,5 +41,4 @@ function onLoaded(): void {
   observer.observe(document.body, { childList: true, subtree: true });
 }
 
-onLoaded()
-// document.addEventListener('DOMContentLoaded', onLoaded);
+onLoaded();

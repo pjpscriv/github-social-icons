@@ -1,6 +1,5 @@
 import { logger } from "../logger";
 import { LINK_SELECTOR, SVG_SELECTOR } from "../selectors";
-import { StackOverflow } from "./stackoverflow";
 
 export abstract class SocialLink {
   name: string;
@@ -8,7 +7,7 @@ export abstract class SocialLink {
   regex: RegExp;
   iconUrl: string;
 
-  abstract getText(el: any): string;
+  abstract getText(text: string): string;
 
   transformItem(el: Element): void {
     // Get parts of the link
@@ -31,7 +30,3 @@ export abstract class SocialLink {
     }
   }
 }
-
-export const socialLinks: SocialLink[] = [
-  new StackOverflow()
-]
