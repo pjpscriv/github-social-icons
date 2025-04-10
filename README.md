@@ -1,4 +1,17 @@
-# GitHub Social Links Chrome Extension
+<h1>
+    <img width="32" height="32" src="https://github.com/pjpscriv/github-social-icons/blob/main/icons/icon_128.png?raw=true">
+    GitHub Social Icons
+</h1>
+
+<p>
+  <picture>
+    <a href="https://chromewebstore.google.com/detail/gmail-label-colorizer/ledidlccnpfooopagmkgihgibfbnbbnp">
+      <img src="https://img.shields.io/chrome-web-store/users/ledidlccnpfooopagmkgihgibfbnbbnp?style=flat-square&logo=google-chrome&logoColor=white&label=Chrome%20users&color=%234285F4" alt="Chrome Web Store">
+    </a>
+  </picture>
+</p>
+
+| _Extension pending acceptance to Chrome Webstore_
 
 This Chrome extension enhances GitHub profiles and Gist pages by prettifying unsupported social links. It replaces standard links with visually appealing icons, making it easier for users to identify social profiles.
 
