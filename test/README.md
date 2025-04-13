@@ -35,10 +35,52 @@
 **Behance**
 - https://github.com/erochOnGit
 
+**Flickr**
+- https://github.com/heitorPB
+
+**Discord**
+- https://github.com/mouredev
+
 ### TODO
 
 **Spotify?**
 - https://github.com/
 
-**Discord?**
-- https://github.com/
+
+**Twitter?**
+- https://github.com/karpathy
+- https://github.com/ruanyf
+- https://github.com/fchollet
+- https://github.com/justjavac
+
+**Youtube**
+- https://github.com/hiteshchoudhary
+- https://github.com/ThePrimeagen
+- https://github.com/llSourcell
+- https://github.com/krishnaik06
+- https://github.com/iamshaunjp
+- https://github.com/benawad
+- https://github.com/jadijadi
+- https://github.com/shiffman
+- https://github.com/AlexTheAnalyst
+
+**Twitch?**
+- https://github.com/ThePrimeagen
+- https://github.com/midudev
+
+**TikTok**
+- https://github.com/iamshaunjp
+
+**Itch.io?**
+- https://github.com/SebLague
+
+**BiliBili?**
+- https://github.com/Visualize-ML
+- https://github.com/liyupi
+
+**Hubzilla?**
+- https://github.com/esin
+
+**Leetcode?**
+- https://github.com/JohnMwendwa
+

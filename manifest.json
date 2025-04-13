@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "GitHub Social Icons",
-  "version": "1.0",
-  "description": "Prettifies Social links on GitHub profiles and gists.",
+  "version": "1.0.1",
+  "description": "Prettifies social links on GitHub profiles",
   "permissions": [
     "activeTab"
   ],

@@ -8,6 +8,8 @@ import { Behance } from './behance';
 import { Figma } from './figma';
 import { ResearchGate } from './researchgate';
 import { DevTo } from './dev-to';
+import { Discord } from './discord';
+import { Flickr } from './flickr';
 
 export const SOCIAL_LINKS: SocialLink[] = [
     new StackOverflow(),
@@ -18,5 +20,7 @@ export const SOCIAL_LINKS: SocialLink[] = [
     new Behance(),
     new Figma(),
     new ResearchGate(),
-    new DevTo()
+    new DevTo(),
+    new Discord(),
+    new Flickr(),
 ];
