@@ -11,8 +11,6 @@
   </picture>
 </p>
 
-| _Extension pending acceptance to Chrome Webstore_
-
 This Chrome extension enhances GitHub profiles and Gist pages by prettifying unsupported social links. It replaces standard links with visually appealing icons, making it easier for users to identify social profiles.
 
 ## Development
