@@ -9,7 +9,14 @@
       <img src="https://img.shields.io/chrome-web-store/users/ledidlccnpfooopagmkgihgibfbnbbnp?style=flat-square&logo=google-chrome&logoColor=white&label=Chrome%20users&color=%234285F4" alt="Chrome Web Store">
     </a>
   </picture>
+  <picture>
+    <a href="https://addons.mozilla.org/en-GB/firefox/addon/github-social-icons/">
+      <img src="https://img.shields.io/amo/users/github-social-icons?style=flat-square&logo=firefox&logoColor=white&label=Firefox%20users&color=%23FF7139" alt="Firefox add-ons">
+    </a>
+  </picture>
 </p>
+
+| _Awaiting acceptance to Mozilla Addons Store_
 
 This Chrome extension enhances GitHub profiles and Gist pages by prettifying unsupported social links. It replaces standard links with visually appealing icons, making it easier for users to identify social profiles.
 

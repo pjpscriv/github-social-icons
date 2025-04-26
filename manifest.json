@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "GitHub Social Icons",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Prettifies social links on GitHub profiles",
   "permissions": [
     "activeTab"
@@ -28,5 +28,11 @@
       "resources": ["/link-icons/*.svg"],
       "matches": ["<all_urls>"]
     }
-  ]
+  ],
+  "browser_specific_settings": {
+     "gecko": {
+        "id": "github-social-icons@pjpscriv.com",
+        "strict_min_version": "109.0"
+     }
+  }
 }
