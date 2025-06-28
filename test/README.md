@@ -1,9 +1,8 @@
-## Example Profiles to test with
+## Example profiles to test with
 
 **Stack Overflow**
 - https://github.com/pjpscriv
 - https://github.com/eastriverlee
-- https://github.com/tristan-f-r
 - https://github.com/Skenvy
 
 **Observable**
@@ -17,11 +16,10 @@
 - https://github.com/MohamadeRahbar
 
 **Threads**
-- https://github.com/MattJeanes
 - https://github.com/ryebytescode
 
 **Steam**
-- https://github.com/MaxGripe
+- ...
 
 **Figma**
 - https://github.com/JamesIves
@@ -30,7 +28,7 @@
 - https://github.com/KAnejjar
 
 **Dev.to**
-- https://github.com/melio0504
+- ...
 
 **Behance**
 - https://github.com/erochOnGit
@@ -41,11 +39,26 @@
 **Discord**
 - https://github.com/mouredev
 
-### TODO
+**TikTok**
+- https://github.com/iamshaunjp
+
+**Itch.io**
+- https://github.com/SebLague
+- https://github.com/eastriverlee
+
+**Matrix**
+- https://github.com/LorenDB
+- https://github.com/orzklv
+- https://github.com/Saklad5
+- https://github.com/HarisDotParis
+
+**Pintrest**
+- https://github.com/jennyfoster309
+
+## TODO
 
 **Spotify?**
-- https://github.com/
-
+- ...
 
 **Twitter?**
 - https://github.com/karpathy
@@ -53,7 +66,7 @@
 - https://github.com/fchollet
 - https://github.com/justjavac
 
-**Youtube**
+**Youtube?**
 - https://github.com/hiteshchoudhary
 - https://github.com/ThePrimeagen
 - https://github.com/llSourcell
@@ -67,12 +80,6 @@
 **Twitch?**
 - https://github.com/ThePrimeagen
 - https://github.com/midudev
-
-**TikTok**
-- https://github.com/iamshaunjp
-
-**Itch.io?**
-- https://github.com/SebLague
 
 **BiliBili?**
 - https://github.com/Visualize-ML

@@ -10,6 +10,10 @@ import { ResearchGate } from './researchgate';
 import { DevTo } from './dev-to';
 import { Discord } from './discord';
 import { Flickr } from './flickr';
+import { Matrix } from './matrix';
+import { TikTok } from './tiktok';
+import { Pintrest } from './pintrest';
+import { ItchIo } from './itch-io';
 
 export const SOCIAL_LINKS: SocialLink[] = [
     new StackOverflow(),
@@ -23,4 +27,8 @@ export const SOCIAL_LINKS: SocialLink[] = [
     new DevTo(),
     new Discord(),
     new Flickr(),
+    new Matrix(),
+    new TikTok(),
+    new Pintrest(),
+    new ItchIo(),
 ];
