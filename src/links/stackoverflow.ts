@@ -1,4 +1,4 @@
-import { SocialLink } from "./social-links";
+import { SocialLink } from "./_social-links";
 
 export class StackOverflow extends SocialLink {
     public name: string = 'StackOverflow';

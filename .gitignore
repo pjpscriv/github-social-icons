@@ -4,3 +4,6 @@ node_modules
 # Build output
 dist
 *.zip
+
+# Generated test link page
+test/README.html

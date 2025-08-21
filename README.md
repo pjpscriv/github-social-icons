@@ -34,7 +34,8 @@ npm run watch
 
 Launch the extension using Mozilla's `web-ext`
 ```sh
-npm run test
+npm run test:firefox
+npm run test:chrome
 ```
 
 ### Package

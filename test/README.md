@@ -18,17 +18,11 @@
 **Threads**
 - https://github.com/ryebytescode
 
-**Steam**
-- ...
-
 **Figma**
 - https://github.com/JamesIves
 
 **ResearchGate**
 - https://github.com/KAnejjar
-
-**Dev.to**
-- ...
 
 **Behance**
 - https://github.com/erochOnGit
@@ -54,6 +48,15 @@
 
 **Pintrest**
 - https://github.com/jennyfoster309
+
+**Linktree**
+- https://github.com/thePunderWoman
+
+**Steam**
+- ...
+
+**Dev.to**
+- ...
 
 ## TODO
 

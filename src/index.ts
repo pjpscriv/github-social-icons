@@ -1,7 +1,7 @@
 import { logger } from './logger';
 import { LINK_SELECTOR, SOCIAL_LINK_SELECTOR } from './selectors';
-import { SocialLink } from './links/social-links';
-import { SOCIAL_LINKS } from './links/index';
+import { SocialLink } from './links/_social-links';
+import { SOCIAL_LINKS } from './links/_index';
 
 function prettifyLinks() {
   const links = document.querySelectorAll(SOCIAL_LINK_SELECTOR);

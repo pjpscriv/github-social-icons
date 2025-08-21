@@ -1,4 +1,4 @@
-import { SocialLink } from "./social-links";
+import { SocialLink } from "./_social-links";
 
 export class Pintrest extends SocialLink {
     public name: string = 'Pintrest';

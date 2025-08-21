@@ -1,4 +1,4 @@
-import { SocialLink } from './social-links';
+import { SocialLink } from './_social-links';
 import { Observable } from './observable';
 import { StackOverflow } from './stackoverflow';
 import { Telegram } from './telegram';
@@ -14,6 +14,7 @@ import { Matrix } from './matrix';
 import { TikTok } from './tiktok';
 import { Pintrest } from './pintrest';
 import { ItchIo } from './itch-io';
+import { Linktree } from './linktree';
 
 export const SOCIAL_LINKS: SocialLink[] = [
     new StackOverflow(),
@@ -31,4 +32,5 @@ export const SOCIAL_LINKS: SocialLink[] = [
     new TikTok(),
     new Pintrest(),
     new ItchIo(),
+    new Linktree(),
 ];
