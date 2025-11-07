@@ -18,6 +18,43 @@
 
 This extension enhances GitHub profiles and Gist pages by prettifying unsupported social links. It replaces standard links with visually appealing icons, making it easier for users to identify social profiles.
 
+## Support
+
+**Currently Supported**
+
+- [x] StackOverflow
+- [x] Observable
+- [x] Telegram
+- [x] Threads
+- [x] Steam
+- [x] Behance
+- [x] Figma
+- [x] ResearchGate
+- [x] Dev.to
+- [x] Discord
+- [x] Flickr
+- [x] Matrix
+- [x] TikTok
+- [x] Pintrest
+- [x] Itch.io
+- [x] Linktree
+- [x] Spotify
+
+**Considering Adding**
+
+- [ ] Nuget
+- [ ] Docker Hub
+- [ ] Gravatar
+- [ ] YouTube - *A few URL formats aren't supported e.g. https://github.com/ThePrimeagen*
+- [ ] Twitter - *Not supported when used at the main link*
+- [ ] Twitch - *Not supported when used in the main link*
+- [ ] Bilibili
+- [ ] Hubzilla
+- [ ] Leetcode
+- [ ] OpenStreetMap
+- [ ] Warpcast
+- [ ] Medium
+
 ## Development
 
 Built using [Node 22 LTS](https://nodejs.org/en/download). May work fine with earlier versions but I haven't checked them.

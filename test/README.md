@@ -52,6 +52,9 @@
 **Linktree**
 - https://github.com/thePunderWoman
 
+**Spotify?**
+- https://github.com/DemerNkardaz
+
 **Steam**
 - ...
 
@@ -68,9 +71,6 @@
 
 **Gravatar**
 - https://github.com/Lifailon
-
-**Spotify?**
-- ...
 
 **Twitter?**
 - https://github.com/karpathy
@@ -108,6 +108,9 @@
 
 **Warpcast**
 - https://github.com/dalechyn
+
+**Medium**
+- https://github.com/mrjoelkemp
 
 # GitHub Community Discussions
 
