@@ -55,6 +55,9 @@
 **Spotify?**
 - https://github.com/DemerNkardaz
 
+**Medium**
+- https://github.com/mrjoelkemp
+
 **Steam**
 - ...
 
@@ -109,24 +112,21 @@
 **Warpcast**
 - https://github.com/dalechyn
 
-**Medium**
-- https://github.com/mrjoelkemp
-
 # GitHub Community Discussions
 
-- (User profile: link to Mastodon and other social media)[https://github.com/orgs/community/discussions/5720]
-- (Stackoverflow profile)[https://github.com/orgs/community/discussions/48265]
-- (Stack Overflow Profile Icon)[https://github.com/orgs/community/discussions/48351]
-- (Missing Threads Icon in Social Links)[https://github.com/orgs/community/discussions/154570]
-- (Any Update on adding Steam and Discord social profile icons in Profile settings?)[https://github.com/orgs/community/discussions/130409]
-- (Add Figma Profile Iconography)[https://github.com/orgs/community/discussions/130409]
-- (Supporting Telegram icon in the Profile Socials)[https://github.com/orgs/community/discussions/48353]
-- (Other social accounts)[https://github.com/orgs/community/discussions/153323]
-- ()[https://github.com/orgs/community/discussions/144553]
-- ()[https://github.com/orgs/community/discussions/136757]
-- (ORCID Simplify)[https://github.com/orgs/community/discussions/137377]
-- https://github.com/orgs/community/discussions/37683
-- https://github.com/orgs/community/discussions/112633
+- [User profile: link to Mastodon and other social media](https://github.com/orgs/community/discussions/5720)
+- [Stack Overflow #1](https://github.com/orgs/community/discussions/48265)
+- [Stack Overflow #2](https://github.com/orgs/community/discussions/48351)
+- [Threads](https://github.com/orgs/community/discussions/154570)
+- [Steam & Discord](https://github.com/orgs/community/discussions/)
+- [Figma](https://github.com/orgs/community/discussions/130409)
+- [Telegram](https://github.com/orgs/community/discussions/48353)
+- [Docker Hub, NuGet, PyPI](https://github.com/orgs/community/discussions/153323)
+- [OpenStreetMap](https://github.com/orgs/community/discussions/144553)
+- [Nostr](https://github.com/orgs/community/discussions/136757)
+- [Simpliy link: ORCID](https://github.com/orgs/community/discussions/137377)
+- [Mastodon + others](https://github.com/orgs/community/discussions/37683)
+- [Warpcast](https://github.com/orgs/community/discussions/112633)
 
 And this S/O question:
 - https://stackoverflow.com/q/76031624

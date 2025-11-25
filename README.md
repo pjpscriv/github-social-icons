@@ -1,6 +1,6 @@
 <h1>
-    <img width="32" height="32" src="https://github.com/pjpscriv/github-social-icons/blob/main/icons/icon_128.png?raw=true">
-    GitHub Social Icons
+  <img width="32" height="32" src="https://github.com/pjpscriv/github-social-icons/blob/main/icons/icon_128.png?raw=true">
+  GitHub Social Icons
 </h1>
 
 <p>
@@ -39,6 +39,7 @@ This extension enhances GitHub profiles and Gist pages by prettifying unsupporte
 - [x] Itch.io
 - [x] Linktree
 - [x] Spotify
+- [x] Medium
 
 **Considering Adding**
 
@@ -53,7 +54,6 @@ This extension enhances GitHub profiles and Gist pages by prettifying unsupporte
 - [ ] Leetcode
 - [ ] OpenStreetMap
 - [ ] Warpcast
-- [ ] Medium
 
 ## Development
 

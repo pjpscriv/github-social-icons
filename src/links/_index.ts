@@ -16,6 +16,7 @@ import { Pintrest } from './pintrest';
 import { ItchIo } from './itch-io';
 import { Linktree } from './linktree';
 import { Spotify } from './spotify';
+import { Medium } from './medium';
 
 export const SOCIAL_LINKS: SocialLink[] = [
     new StackOverflow(),
@@ -35,4 +36,5 @@ export const SOCIAL_LINKS: SocialLink[] = [
     new ItchIo(),
     new Linktree(),
     new Spotify(),
+    new Medium(),
 ];
