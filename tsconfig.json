@@ -4,6 +4,7 @@
     "module": "ES6",
     "noImplicitAny": true,
     "preserveConstEnums": true,
+    "rootDir": "src",
     "outDir": "dist"
   },
   "include": ["src/*.ts"]

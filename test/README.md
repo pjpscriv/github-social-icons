@@ -17,6 +17,7 @@
 
 **Threads**
 - https://github.com/ryebytescode
+- https://github.com/krushaalkalkani
 
 **Figma**
 - https://github.com/JamesIves
