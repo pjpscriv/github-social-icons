@@ -17,6 +17,13 @@ import { ItchIo } from './itch-io';
 import { Linktree } from './linktree';
 import { Spotify } from './spotify';
 import { Medium } from './medium';
+import { Twitter } from './twitter';
+import { Gravatar } from './gravatar';
+import { DockerHub } from './docker-hub';
+import { Codeberg } from './codeberg';
+import { NuGet } from './nuget';
+import { OpenStreetMap } from './openstreetmap';
+import { Farcaster } from './farcaster';
 
 export const SOCIAL_LINKS: SocialLink[] = [
     new StackOverflow(),
@@ -37,4 +44,11 @@ export const SOCIAL_LINKS: SocialLink[] = [
     new Linktree(),
     new Spotify(),
     new Medium(),
+    new Twitter(),
+    new Gravatar(),
+    new DockerHub(),
+    new Codeberg(),
+    new NuGet(),
+    new OpenStreetMap(),
+    new Farcaster(),
 ];

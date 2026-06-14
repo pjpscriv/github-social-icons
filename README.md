@@ -40,20 +40,21 @@ This extension enhances GitHub profiles and Gist pages by prettifying unsupporte
 - [x] Linktree
 - [x] Spotify
 - [x] Medium
+- [x] Nuget
+- [x] Docker Hub
+- [x] Gravatar
+- [x] Twitter - *Not supported when used at the main link*
+- [x] OpenStreetMap
+- [x] Codeberg
+- [x] Warpcast/Farcaster
 
 **Considering Adding**
 
-- [ ] Nuget
-- [ ] Docker Hub
-- [ ] Gravatar
 - [ ] YouTube - *A few URL formats aren't supported e.g. https://github.com/ThePrimeagen*
-- [ ] Twitter - *Not supported when used at the main link*
 - [ ] Twitch - *Not supported when used in the main link*
 - [ ] Bilibili
 - [ ] Hubzilla
 - [ ] Leetcode
-- [ ] OpenStreetMap
-- [ ] Warpcast
 
 ## Development
 

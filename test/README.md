@@ -65,8 +65,6 @@
 **Dev.to**
 - ...
 
-## TODO
-
 **Nuget**
 - https://github.com/Lifailon
 
@@ -76,11 +74,22 @@
 **Gravatar**
 - https://github.com/Lifailon
 
-**Twitter?**
+**Old Twitter**
 - https://github.com/karpathy
 - https://github.com/ruanyf
 - https://github.com/fchollet
 - https://github.com/justjavac
+
+**OpenStreetMap**
+- https://github.com/FloEdelmann
+
+**Codeberg**
+- https://github.com/FloEdelmann
+
+**Warpcast / Farcaster**
+- https://github.com/dalechyn
+
+## TODO
 
 **Youtube?**
 - https://github.com/hiteshchoudhary
@@ -107,11 +116,6 @@
 **Leetcode?**
 - https://github.com/JohnMwendwa
 
-**OpenStreetMap**
-- https://github.com/FloEdelmann
-
-**Warpcast**
-- https://github.com/dalechyn
 
 # GitHub Community Discussions
 
