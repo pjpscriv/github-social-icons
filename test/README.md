@@ -119,19 +119,19 @@
 
 # GitHub Community Discussions
 
-- [User profile: link to Mastodon and other social media](https://github.com/orgs/community/discussions/5720)
-- [Stack Overflow #1](https://github.com/orgs/community/discussions/48265)
-- [Stack Overflow #2](https://github.com/orgs/community/discussions/48351)
-- [Threads](https://github.com/orgs/community/discussions/154570)
-- [Steam & Discord](https://github.com/orgs/community/discussions/)
-- [Figma](https://github.com/orgs/community/discussions/130409)
-- [Telegram](https://github.com/orgs/community/discussions/48353)
-- [Docker Hub, NuGet, PyPI](https://github.com/orgs/community/discussions/153323)
-- [OpenStreetMap](https://github.com/orgs/community/discussions/144553)
-- [Nostr](https://github.com/orgs/community/discussions/136757)
-- [Simpliy link: ORCID](https://github.com/orgs/community/discussions/137377)
-- [Mastodon + others](https://github.com/orgs/community/discussions/37683)
-- [Warpcast](https://github.com/orgs/community/discussions/112633)
+- [ ] [User profile: link to Mastodon and other social media](https://github.com/orgs/community/discussions/5720)
+- [x] [Stack Overflow #1](https://github.com/orgs/community/discussions/48265)
+- [x] [Stack Overflow #2](https://github.com/orgs/community/discussions/48351)
+- [x] [Threads](https://github.com/orgs/community/discussions/154570)
+- [x] [Steam & Discord](https://github.com/orgs/community/discussions/)
+- [x] [Figma](https://github.com/orgs/community/discussions/130409)
+- [x] [Telegram](https://github.com/orgs/community/discussions/48353)
+- [x] [Docker Hub, NuGet, PyPI](https://github.com/orgs/community/discussions/153323)
+- [x] [OpenStreetMap](https://github.com/orgs/community/discussions/144553)
+- [ ] [Nostr](https://github.com/orgs/community/discussions/136757)
+- [ ] [Simpliy link: ORCID](https://github.com/orgs/community/discussions/137377)
+- [x] [Mastodon + others](https://github.com/orgs/community/discussions/37683)
+- [x] [Warpcast](https://github.com/orgs/community/discussions/112633)
 
 And this S/O question:
 - https://stackoverflow.com/q/76031624
