@@ -24,6 +24,7 @@ import { Codeberg } from './codeberg';
 import { NuGet } from './nuget';
 import { OpenStreetMap } from './openstreetmap';
 import { Farcaster } from './farcaster';
+import { Tangled } from './tangled';
 
 export const SOCIAL_LINKS: SocialLink[] = [
     new StackOverflow(),
@@ -51,4 +52,5 @@ export const SOCIAL_LINKS: SocialLink[] = [
     new NuGet(),
     new OpenStreetMap(),
     new Farcaster(),
+    new Tangled(),
 ];

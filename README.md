@@ -47,6 +47,7 @@ This extension enhances GitHub profiles and Gist pages by prettifying unsupporte
 - [x] OpenStreetMap
 - [x] Codeberg
 - [x] Warpcast/Farcaster
+- [x] Tangled
 
 **Considering Adding**
 

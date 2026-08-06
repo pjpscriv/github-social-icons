@@ -89,6 +89,10 @@
 **Warpcast / Farcaster**
 - https://github.com/dalechyn
 
+**Tangled**
+- https://github.com/nulfrost
+- https://github.com/gaearon
+
 ## TODO
 
 **Youtube?**
